@@ -13,6 +13,28 @@ html{
 	box-sizing: boarder-box;
 	position: relative;
 }
+.container2 {
+	height: 235vh;
+	width: 100%;
+	background-image:url(Images/background.jpg);
+	background-position: center;
+	background-size: cover;
+	padding-left: 2%;
+	padding-right: 2%;
+	box-sizing: boarder-box;
+	position: relative;
+}
+.container3 {
+	height: 170vh;
+	width: 100%;
+	background-image:url(Images/background.jpg);
+	background-position: center;
+	background-size: cover;
+	padding-left: 2%;
+	padding-right: 2%;
+	box-sizing: boarder-box;
+	position: relative;
+}
 .logo{
 	width: 600px;
 	margin: auto;
@@ -64,6 +86,10 @@ nav ul li a{
 	width: 70px;
 	height:70px;
 }
+.homepage{
+	width: 70px;
+	height:70px;
+}
 .maintext h2{
 	font-size: 40px;
 	font-weight: 100;
@@ -75,4 +101,11 @@ nav ul li a{
 	font-weight: 100;
 	margin-top: 24px;
 	margin-bottom: 5px;
+	padding-right: 50px;
+}
+ul{
+	font-size: 20px;
+	font-weight: 100;	
+	padding-right: 50px;
+	padding-bottom: 10px;
 }
